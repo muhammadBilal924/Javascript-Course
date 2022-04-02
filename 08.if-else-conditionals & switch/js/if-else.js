@@ -8,10 +8,11 @@ console.log('this is Tutorial by 8');
 // }
 
 
-const x = 12;
-if (x == 13) {
-    console.log('This is my new paragraph');
-}
-else {
-    console.log('The move ment');
-}
+// const x = 12;
+// if (x == 13) {
+//     console.log('This is my new paragraph');
+// }
+// else {
+//     console.log('The move ment');
+// }
+

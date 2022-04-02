@@ -1,0 +1,1 @@
+console.log(age == 19 ? 'Age is 45' : 'Age is not 24');
