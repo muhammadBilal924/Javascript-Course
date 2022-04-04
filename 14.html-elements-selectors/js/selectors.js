@@ -16,9 +16,9 @@ console.log('Wellcome to tute 14');
 //  element.innerHTML = '<b> Bilal is a good boy </b>';
 // 
 
-// let sel = document.querySelector('#first');
-// sel = document.querySelector('.child');
-// sel = document.querySelector('div');
+ let sel = document.querySelector('#first');
+ sel = document.querySelector('.child');
+ sel = document.querySelector('div');
 // console.log(sel);
 
 
