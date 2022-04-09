@@ -22,5 +22,4 @@ console.log('Wellcome to tute 14');
 // console.log(sel);
 
 
-let elems = document.getElementsByClassName('child');
-console.log(elems[1])
+

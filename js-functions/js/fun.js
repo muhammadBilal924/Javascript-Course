@@ -103,7 +103,6 @@ ShowMessage("Bilal", "Khan","Daha");
  }
  console.log(sum);
 */
-/*
 function add(sum) {
     let x =sum;
     for (let i = 0; i < x; i++) {
@@ -116,9 +115,22 @@ add(10);
 function newFunction(){
     alert("Let's he's a programmer");
 }
+/*
+function addid(sum) {
+    let x = sum;
+    for (let i = 0; i < x;) {
+        sum++;
+        console.log(sum)
+    }
+    return sum;
+}
+add(50);
+function newFunction() {
+    alert('g khan g')
+}
 */
 
-
+function 
 
 
 

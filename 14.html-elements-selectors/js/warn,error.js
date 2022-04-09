@@ -1,8 +1,4 @@
 
-  
-   
-        <h1>The Warn & Error Properties</h1>
-
         // let  a = obj1,obj2,objN;
         // console.warn(obj1 [ obj2,  objN]);
 
