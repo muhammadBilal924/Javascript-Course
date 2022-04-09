@@ -11,10 +11,10 @@ console.log('Wellcome to tute 14');
 // element = element.parentNode;
 
 
-// element.style.color = 'red';
-// element.innerText = 'Bila is a good boy';
-//  element.innerHTML = '<b> Bilal is a good boy </b>';
-// 
+ element.style.color = 'red';
+ element.innerText = 'Bila is a good boy';
+  element.innerHTML = '<b> Bilal is a good boy </b>';
+ 
 
  let sel = document.querySelector('#first');
  sel = document.querySelector('.child');
