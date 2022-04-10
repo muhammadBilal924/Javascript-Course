@@ -36,14 +36,18 @@ function motor() {
  function square(n) { return n * n }
 */
 /*
- function sub(n) { return n };
+ function sub(n) { 
+     return n 
+    };
  console.log(sub(8 - 4));
 */
-/*
+
 //  Multiplication
- function multi(n) {return n}
- console.log(multi(5*4));
-*/
+function multi(n) {
+    return n
+}
+ console.log(multi(5*7));
+
 /*
 //  Manipulation
  function mani(n){return n}
@@ -130,7 +134,6 @@ function newFunction() {
 }
 */
 
-function 
 
 
 
