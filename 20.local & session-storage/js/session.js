@@ -19,3 +19,5 @@ console.log('My name is Bilal Khan');
 console.assert('this is a asserts');
 console.table('this is a table');
 console.timeEnd('this is a timeEnd');
+
+localStorage.setItem('name','ali');
